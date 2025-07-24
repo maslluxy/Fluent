@@ -3,6 +3,7 @@ local Themes = {
 		"Dark",
 		"Darker",
 		"Light",
+		"Azure"
 		"Aqua",
 		"Amethyst",
 		"Rose",
